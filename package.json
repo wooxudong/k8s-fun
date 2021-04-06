@@ -1,0 +1,22 @@
+{
+  "name": "k8s-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooxudong/k8s-fun.git"
+  },
+  "keywords": [
+    "k8s"
+  ],
+  "author": "wooxudong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooxudong/k8s-fun/issues"
+  },
+  "homepage": "https://github.com/wooxudong/k8s-fun#readme"
+}
